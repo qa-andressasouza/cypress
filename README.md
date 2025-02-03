@@ -1,2 +1,2 @@
 # cypress
-Cypress framework learning
+Cypress framework for API testing learning
